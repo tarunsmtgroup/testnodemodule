@@ -1,0 +1,19 @@
+{
+  "name": "testnodemodule",
+  "version": "1.0.0",
+  "description": "Test module",
+  "main": "Testnodemodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tarunsmtgroup@github.com/tarunsmtgroup/testnodemodule.git"
+  },
+  "author": "Tarun <tarunsmtgroup@gmail.com> (https://smtgroup.in/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunsmtgroup/testnodemodule/issues"
+  },
+  "homepage": "https://github.com/tarunsmtgroup/testnodemodule#readme"
+}
